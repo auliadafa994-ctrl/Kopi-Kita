@@ -209,7 +209,7 @@ Untuk error:
 ---
 
 ## 📸 Preview Aplikasi
-
+Maaf Belum Ditampilkan
 Tambahkan screenshot aplikasi di folder `screenshots/`, lalu tampilkan seperti ini:
 
 ```md
@@ -218,9 +218,9 @@ Tambahkan screenshot aplikasi di folder `screenshots/`, lalu tampilkan seperti i
 
 | Halaman | Preview |
 |---|---|
-| Dashboard | ![Dashboard](screenshots/dashboard.png) |
-| Halaman Menu | ![Menu](screenshots/menu.png) |
-| Halaman Pesanan | ![Order](screenshots/order.png) |
+| Dashboard | ![Dashboard](screenshots/dashboard.png) | Maaf Belum Ditampilkan Sementara
+| Halaman Menu | ![Menu](screenshots/menu.png) | Maaf Belum Ditampilkan Sementara
+| Halaman Pesanan | ![Order](screenshots/order.png) | Maaf Belum Ditampilkan Sementara
 
 ---
 
@@ -263,7 +263,7 @@ Project ini terbuka untuk pengembangan lebih lanjut. Jika ingin berkontribusi:
 ## 📬 Kontak
 
 - GitHub: [@auliadafa994-ctrl](https://github.com/auliadafa994-ctrl)
-- Email: emailkamu@example.com
+- Email: auliadafa994@gmail.com
 
 ---
 
