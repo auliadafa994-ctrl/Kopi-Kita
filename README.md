@@ -1,6 +1,6 @@
 # KopiKita
 
-Local-first Indonesian coffee shop demo: React/Vite/TypeScript/Tailwind, Express/TypeScript REST API, and PostgreSQL via Prisma. Payment is simulated locally; no real gateway, cloud integration, production database, or external image dependency is used.
+KOPI KITA — aplikasi web full-stack untuk mengelola menu, pesanan, dan transaksi kedai kopi.
 
 ## Requirements and local setup
 
@@ -27,6 +27,16 @@ cd frontend
 npm install
 npm run dev
 ```
+Topics
+
+web-app
+fullstack
+coffee-shop
+order-management
+typescript
+nodejs
+express
+portfolio
 
 Open the printed Vite URL (default `http://localhost:5173`). Health: `http://127.0.0.1:4000/api/health`.
 
